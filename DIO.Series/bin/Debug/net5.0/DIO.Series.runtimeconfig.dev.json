@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Hort\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hort\\.nuget\\packages"
+    ]
+  }
+}
